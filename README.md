@@ -1,5 +1,3 @@
-# green-destinations-attrition
-
 # 🏝️ Green Destinations - Employee Attrition Analysis
 
 This project analyzes employee attrition at a travel company called Green Destinations. It uses HR data to find trends about who is leaving and why.
